@@ -1,0 +1,18 @@
+{
+  "channels": [
+    "telegram",
+    "durov",
+    "bloomberg",
+    "rian_ru",
+    "tass_agency",
+    "nexta_live",
+    "botnews",
+    "tginfo",
+    "contest",
+    "designers",
+    "habr_com",
+    "proxy_tg"
+  ],
+  "postsPerChannel": 40,
+  "maxItems": 50
+}
